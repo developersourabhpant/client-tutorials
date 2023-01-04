@@ -1,0 +1,16 @@
+.card-1 {
+  margin-top: 8%;
+  color: darkred;
+  font-family: math;
+  font-weight: 500;
+}
+.card-pera {
+  justify-content: center;
+}
+.card-3 {
+  margin-top: 4%;
+  font-family: math;
+  color: darkred;
+  font-weight: 500;
+  font-size: 26px;
+}
